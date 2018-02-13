@@ -4,3 +4,6 @@ cljjwfhchanges in file 1
 test feature 1
 
 test on feature 1 repaet
+
+chnages
+chenages
